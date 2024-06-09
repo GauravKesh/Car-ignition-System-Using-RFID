@@ -46,7 +46,7 @@ This project demonstrates the integration of microcontrollers and RFID technolog
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/car-ignition-system.git
+   gh repo clone GauravKesh/Car-ignition-System-Using-RFID
 
 
 
